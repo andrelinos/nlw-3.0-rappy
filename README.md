@@ -1,3 +1,3 @@
 # nlw-3.0-rappy
-🚀 Projeto desenvolvido para conectar estudantes e alunos.
+🚀 Projeto desenvolvido para conectar pessoas a orfanatos.
 
