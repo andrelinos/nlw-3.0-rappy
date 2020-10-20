@@ -31,6 +31,46 @@ export class createOrphanages1602802634965 implements MigrationInterface {
           precision: 2,
         },
         {
+          name: 'phone',
+          type: 'text',
+        },
+        {
+          name: 'whatsapp',
+          type: 'text',
+        },
+        {
+          name: 'email',
+          type: 'text',
+        },
+        {
+          name: 'facebook',
+          type: 'text',
+        },
+        {
+          name: 'instagram',
+          type: 'text',
+        },
+        {
+          name: 'address',
+          type: 'text',
+        },
+        {
+          name: 'neighborhood',
+          type: 'text',
+        },
+        {
+          name: 'number',
+          type: 'text',
+        },
+        {
+          name: 'uf',
+          type: 'text',
+        },
+        {
+          name: 'zip_code',
+          type: 'text',
+        },
+        {
           name: 'about',
           type: 'text',
         },

@@ -17,6 +17,36 @@ export default class Orphanages {
   longitude: number;
 
   @Column()
+  phone: string;
+
+  @Column()
+  whatsapp: string;
+
+  @Column()
+  email: string;
+
+  @Column()
+  facebook: string;
+
+  @Column()
+  instagram: string;
+
+  @Column()
+  address: string;
+
+  @Column()
+  neighborhood: string;
+
+  @Column()
+  number: string;
+
+  @Column()
+  uf: string;
+
+  @Column()
+  zip_code: string;
+
+  @Column()
   about: string;
 
   @Column()
